@@ -3,7 +3,7 @@
 <h3 align="center">If you need help, join my discord!</h3>
 <h3 align="center">FOR EDUCTIONAL PURPOSES ONLY</h3>
 <p align="center">
-<a href="https://discord.gg/zXFsU935HD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zXFsU935HD" height="30" width="40" /></a>
+<a href="https://discord.gg/zXFsU935HD" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="zXFsU935HD" height="30" width="40" /></a>
 </p>
 <h3 align="center">ss of the tools</h3>
 <h3 align="center">V2</h3>
