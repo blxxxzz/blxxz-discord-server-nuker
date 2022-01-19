@@ -7,9 +7,9 @@
 </p>
 <h3 align="center">ss of the tools</h3>
 <h3 align="center">V2</h3>
-https://user-images.githubusercontent.com/97342951/150113819-54b548dc-88c8-404f-9468-29c765a7ffd8.png![image](https://user-images.githubusercontent.com/97342951/150114563-b0be3e91-1086-41c8-89d6-c605cc2adc94.png)
-
+https://user-images.githubusercontent.com/97342951/150113819-54b548dc-88c8-404f-9468-29c765a7ffd8.png
 https://user-images.githubusercontent.com/97342951/150114306-77f7628c-138d-4d42-ba6e-7e82bbdd9576.png
+
 <h3 align="center">V1</h3>
 https://user-images.githubusercontent.com/97342951/150113938-2b5ce684-fabb-4f1a-9ee6-3bbdd9f3906a.png
 https://user-images.githubusercontent.com/97342951/150114264-de28c046-a875-49a1-a734-223ce79183f7.png
