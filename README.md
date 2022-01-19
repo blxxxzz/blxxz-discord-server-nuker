@@ -5,3 +5,5 @@
 <p align="center">
 <a href="https://discord.gg/zXFsU935HD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zXFsU935HD" height="30" width="40" /></a>
 </p>
+<h3 align="center">![image](https://user-images.githubusercontent.com/97342951/150113819-54b548dc-88c8-404f-9468-29c765a7ffd8.png)</h3>
+
